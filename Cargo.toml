@@ -2,6 +2,7 @@
 name = "beat-this-burn"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
 
 [dependencies]
 burn = { version = "0.22.1", default-features = false, features = ["std", "store", "pytorch"] }
